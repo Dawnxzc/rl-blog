@@ -1,2 +1,2 @@
 # rl-blog
-java blog SpringBoot、Thymeleaf、MyBatis、MarkDown
+java blog SpringBoot、Thymeleaf、MyBatis、Markdown
